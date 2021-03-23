@@ -2,3 +2,4 @@
 These are few of the python projects that I made which might inspire you to make similar projects to level up your python skills.
 
 0.Guessing game with numbers
+1.Hangman (Kind of)
